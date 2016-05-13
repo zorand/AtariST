@@ -1,5 +1,5 @@
-###Jumping Jack Clone for Atari ST (1993)
-## Author: Zoran Dimitrijevic
+#Jumping Jack Clone for Atari ST (1993)
+### Author: Zoran Dimitrijevic
 
 This repository contains an old public domain game for Atari ST which I wrote in 1993.
 
